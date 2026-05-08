@@ -351,4 +351,4 @@ probability = model.predict_proba(X_new_scaled)[:, 1]
 
 ---
 
-*Project completed as part of Machine Learning & GenAI with Microsoft Azure Internship — Nakshatra Devkar*
+*Project completed as part of Data Analytics Internship — Nakshatra Devkar*
